@@ -11,4 +11,3 @@ def read(path):
             jobs_list_dicts.append(row)
 
     return jobs_list_dicts
-
