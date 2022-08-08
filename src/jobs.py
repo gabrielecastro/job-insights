@@ -9,5 +9,4 @@ def read(path):
         jobs_list_dicts = []
         for row in jobs_reader:
             jobs_list_dicts.append(row)
-
     return jobs_list_dicts
