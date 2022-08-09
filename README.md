@@ -27,10 +27,10 @@ Nesse projeto é implementada análises a partir de um conjunto de dados sobre e
 
 >Para executar os testes o ambiente virtual deve estar ativado
 
-**Para executar todos os testes:** ```python3 -m pytest```  
+Para executar todos os testes: ```python3 -m pytest```  
 
 
-**Para executar apenas um arquivo de teste:** ```python3 -m pytest tests/nomedoarquivo.py```      
+Para executar apenas um arquivo de teste: ```python3 -m pytest tests/nomedoarquivo.py```      
 
 
 <details>
