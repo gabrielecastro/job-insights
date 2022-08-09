@@ -30,7 +30,7 @@ Nesse projeto é implementada análises a partir de um conjunto de dados sobre e
 **Para executar todos os testes:** ```python3 -m pytest```  
 
 
-**Para executar apenas um arquivo de teste:** ```python3 -m pytest tests/nomedoarquivo.py```  
+**Para executar apenas um arquivo de teste:** ```python3 -m pytest tests/nomedoarquivo.py```      
 
 
 <details>
@@ -192,4 +192,11 @@ Implementa a função job dentro do arquivo routes_and_views.py.
 * A função chama a read para ter uma lista com todos os jobs.  
 * A função chama a get_job, declarada no arquivo src/more_insights.py, para selecionar um job específico pelo index.  
 * A função renderiza o template job.jinja2, passando um parâmetro job contendo o job retornado pela get_job.
+</details>    
+ 
+ 
+ <details>
+<summary><strong>Observações</strong></summary><br />  
+
+ * Todos os arquivos que foram citados nos requisitos do projeto foram desenvolvidos por mim, o restante foram desenvolvidos pela Trybe.
 </details>
